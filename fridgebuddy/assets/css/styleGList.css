@@ -1,0 +1,112 @@
+.dropdown {
+
+     /*margin: 30px;*/
+     margin: 2px;
+
+   }
+
+.dropdown-menu {
+  width: 150px !important;
+}
+
+input#items {
+  width: 145px !important;
+  margin: 4px;
+}
+
+input#add-items {
+  margin: 4px;
+}
+
+.btn {
+  background-color: #4d6376;
+  border: #fff solid 2px;
+  margin: 0 auto;
+  width: 150px;
+  height: 50px;
+  
+}
+
+h2 {
+  text-align: center;
+  color: #2a201e;
+  letter-spacing: 0.5em;
+  font-size: 50px;
+  margin-bottom: 50px;
+  font-family: Papyrus;
+  /*width: 130px;*/
+  height: 50px;
+}
+
+.container {
+  background-image: url("../images/kitchenblur.png");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -20px;
+
+}
+
+li button {
+  background-color: #fff;
+  color: #4d6376;
+  border: none;
+
+}
+
+li button:hover {
+    
+    color: red;  
+
+}
+
+#add-items {
+
+  border-radius: 4px;
+  background-color: #4d6376;
+  color: #fff;
+
+}
+
+#add-items:hover {
+  color:red;
+}
+.items {
+  color: #4d6376;
+}
+
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+
+span.glyphicon {
+   width: 50px; 
+   height:20px;
+
+}
+
+#listButton {
+  /*margin-top: -400px !important;*/
+  background-color: #6b2f23 !important;
+
+}
+.diet {
+  margin: 20px;
+  width: 120px; 
+  height: 50px;
+  margin-top: 100px;
+  font-size: 18px;
+  font-family: Papyrus;
+  background-color: #fff;
+  border: 2px solid black;
+  font-weight: bold;
+
+
+}
+.diet:hover {
+  color: #fe3b6d;
+  
+}
+
